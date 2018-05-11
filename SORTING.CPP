@@ -1,4 +1,8 @@
+
 //KUMAR 110117066
+
+//SANJAY 110117066
+
 #include<iostream.h>
 #include<conio.h>
 
